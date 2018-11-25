@@ -3,9 +3,15 @@
 	padding: 0;
 }
 
+body div {
+	padding-top: 80px;
+	text-align: center;
+	background-color: #97cbff;
+}
 
 
 head,body {
+	justify-content: center;
 	background-color: #b6b6b6;
 	text-align: center;
 }
