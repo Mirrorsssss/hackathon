@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+head,body {
+	background-color: #b6b6b6;
+	text-align: center;
+}
+
+body img {
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	background: #fff;
+	border-radius: 50%;
+}
+body h1 {
+	padding-top: 20px;
+}
+
+
+
+body h2 {
+	padding-top: 60px;
+	display: flex;
+	flex-direction: column;
+	font-size: 15px;
+}
+
+body h3 {
+	padding-top: 80px;
+	display: flex;
+	flex-direction: column;
+	font-size: 12px;
+}
+
+body footer{
+	padding-top: 100px;
+}
